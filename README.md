@@ -54,4 +54,4 @@ Basis data `Supermarket Customers` terdiri dari 29 kolom. Kolom ini mencakup inf
 --------------------------------------------------------------------------------------
 
 ## **TABLEAU STORY**
-This is the link to tableau story : https://bit.ly/IndoMarketStory
+This is the link to tableau story : https://public.tableau.com/app/profile/katarina.santosa/viz/StoryIndoMarket_17204533065400/Story1?publish=yes
